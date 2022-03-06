@@ -1,3 +1,3 @@
-# machine-learning_housing-prices
+# machine-learning_regression
 
 Project that uses Scikit-Learn and Linear Regression to predict housing prices. 
